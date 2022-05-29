@@ -1,0 +1,9 @@
+name: PvP
+author: alvin0319
+main: PvP\PvPPlugin
+version: 1.0.0
+api: 4.0.0
+
+commands:
+  pvp:
+    description: pvp 으(로) 이동하는 명령어입니다.
